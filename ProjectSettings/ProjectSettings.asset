@@ -593,11 +593,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: RGBCameraStream
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\user\Desktop\HL1-RGBCameraStream-Unity\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 805b33b10fa7d701
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: HL1-RGBCameraStream-Unity
